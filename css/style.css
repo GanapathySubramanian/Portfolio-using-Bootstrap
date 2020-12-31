@@ -1,0 +1,209 @@
+/* Navigation bar */
+.navbar{
+    padding:0 7%; 
+    background-color: black;  
+}
+.navbar .navbar-brand{
+    color:#fff;
+}
+.navbar .navbar-brand:hover{
+    color:#048dfe;
+}
+.navbar .nav-item .nav-link{
+    color:#fff;
+}
+.navbar .nav-item .nav-link:hover{
+    color:#048dfe;
+}
+.navbar-toggler .navbar-toggler-icon{
+    background-color:#fff;
+}
+
+/* Home page */
+#home{
+    background-color: black;
+}
+.home-div{
+    padding:7% 15%;
+}
+.home-div p{
+    color:#fff;
+    font-size:40px;
+}
+.home-div p b{
+    color:#048dfe;
+}
+.home-div .icon:hover{
+    color:#fff;
+}
+.title-img{
+    width:100%;
+    border-radius: 50%;
+}
+
+/* About page */
+.about-header{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.gif .about-img{
+    width:90%;
+}
+.col-lg-6{
+    padding:7% 6%;
+}
+
+
+/* My skills page */
+.skills-header{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.skills-img{
+    padding:10%;
+    width:100%;
+}
+.col-lg-6{
+    padding:7% 10%;
+}
+.skills_data{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    font-weight: 600;
+    padding: .5rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: .5rem;
+    box-shadow: 0 4px 25px rgba(14,36,49,.15);
+  }
+  .skills_icon{
+    font-size: 2rem;
+    margin-right:1rem;
+    color: #4070F4;
+  }
+  .skills_names{
+    display: flex;
+    align-items: center;
+  }
+  .skills_bar{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: #4070F4;
+    height: .25rem;
+    border-radius: .5rem;
+
+  }
+  .skills_html{
+    width: 85%;
+  }
+  .skills_css{
+    width: 75%;
+  }
+  .skills_js{
+    width: 55%;
+  }
+  .skills_php{
+    width: 65%;
+  }
+  .skills_nodejs{
+    width: 55%;
+  }
+ 
+/* Interest page */
+.interest-header{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.interest-img{
+    width:100%;
+}
+.interest-content{
+    padding:5% 1%;
+}
+/* Certification page */
+.certifications-header{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.certifications-content{
+    padding:5% 7%;
+}
+.certifi-img{
+    padding:5%;
+    width:100%;
+}
+
+/* css for contact */
+#contact{
+    background-color: black;
+}
+.contact-header{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color:#fff;
+}
+.contact-content{
+    text-align: center;
+	font-family: sans-serif;
+	height: 380px;
+	width: 330px;
+	position: relative;
+	margin: 0 auto;
+	background: #fff;
+	padding: 5px;
+	border-radius: 20px;
+}
+
+.contact-form{
+	top:30px;
+	position: absolute;
+	width: 280px;
+    transition: .5s;
+    margin-left:20px;
+}
+.contact-input{
+    width: 100%;
+    opacity:0.6;
+	padding: 14px 0;
+	margin: 5px 0;
+	border-left: 1px solid #999;
+	border-top:1px solid #999;
+	border-right: 1px solid #999;
+    border-bottom: 1px solid #999;
+    border-radius: 5px;
+	outline: none; 
+    background: transparent;
+    font-size:15px;
+}
+
+  
+  /* ===== FOOTER =====*/
+  .footer{
+    background-color: #0E2431;
+    color: #fff;
+    text-align: center;
+    font-weight: 600;
+    padding: 2rem 0;
+  }
+  .footer_title{
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  .footer_social{
+    margin-bottom: 2rem;
+  }
+  .footer_icon{
+    font-size: 1.5rem;
+    color: #fff;
+    margin: 0 1rem;
+  }
+  .footer_icon:hover{
+      colof:#048dfe;
+  }
