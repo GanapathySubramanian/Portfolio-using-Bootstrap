@@ -15,10 +15,10 @@
 .navbar .nav-item .nav-link:hover{
     color:#048dfe;
 }
-.navbar-toggler .navbar-toggler-icon{
-    background-color:#fff;
-}
-
+.navbar-toggler .navbar-toggler-icon .nav-icon{
+    color:#fff; 
+    font-size:28px;
+  }
 /* Home page */
 #home{
     background-color: black;
