@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+  }
 /* Navigation bar */
 .navbar{
     padding:0 7%; 
