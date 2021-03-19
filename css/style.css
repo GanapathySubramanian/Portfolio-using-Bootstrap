@@ -151,6 +151,7 @@ margin-right:-15px;
 /* css for contact */
 #contact{
     background-color: black;
+    margin-right:-25px;
 }
 .contact-header{
     text-align: center;
@@ -200,6 +201,7 @@ margin-right:-15px;
     text-align: center;
     font-weight: 600;
     padding: 2rem 0;
+    margin-right:-25px;
   }
   .footer_title{
     font-size: 2rem;
