@@ -33,9 +33,9 @@ html {
 #home{
     background-color: black;
 }
-.home-div{
+/* .home-div{
     padding:7% 15%;
-}
+} */
 .home-div p{
     color:#fff;
     font-size:40px;
