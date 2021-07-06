@@ -33,9 +33,9 @@ html {
 #home{
     background-color: black;
 }
-/* .home-div{
-    padding:7% 15%;
-} */
+.home-div{
+    padding:3% 10%;
+}
 .home-div p{
     color:#fff;
     font-size:40px;
@@ -48,6 +48,7 @@ html {
 }
 .title-img{
     width:100%;
+    border-radius: 50%;
 }
 
 /* About page */
